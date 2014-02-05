@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using PartyInvites.Models;
 
-namespace MyFirstASPMVCTest.Controllers
+namespace PartyInvites.Controllers
 {
     public class HomeController : Controller
     {
